@@ -1,0 +1,97 @@
+
+
+.form-group{
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Cinzel', serif;
+  font-family: 'Marcellus SC', serif;
+}
+body {
+    font-size: 20px;
+    font-weight: 600;
+    display: c
+  }
+  
+  .page {
+    background-color: #f8f5de;
+    background-image: linear-gradient(to right, rgba(255,210,0,0.4), rgba(200, 160, 0, 0.1) 11%, rgba(0,0,0,0) 35%, rgba(200, 160, 0, 0.1) 65%);
+    box-shadow: inset 0 0 75px rgba(255,210,0,0.3), inset 0 0 20px rgba(255,210,0,0.4), inset 0 0 30px rgba(220,120,0,0.8);
+    color: rgba(0,0,0,0.5);
+    font-family: "AustralisProSwash-Italic";
+    width: 100%;
+    letter-spacing: 0.05em;
+    line-height: 1.8;
+    padding: 5em 10em 15em 5em;
+  }
+  .cap{
+    color: rgba(0,0,0,0.7);
+    float: left;
+    font-size: 5em;
+    line-height: 140px;
+    position: relative;
+    top: 8px;
+  }
+  .caps {
+    color: rgba(0,0,0,0.7);
+    float: left;
+    font-size: 4em;
+    line-height: 140px;
+    padding-right: 12px;
+    position: relative;
+    top: 8px;
+    left: 20px;
+  }
+  .clear{
+    clear: both;
+  }
+  h2{
+    float: right;
+  }
+
+
+  form{
+    align-self: center;
+  }
+  .wrraper{
+    align-items: center;
+    align-content: center;
+  }
+  
+textarea{
+  font-family: 'Homemade Apple', cursive !important;
+  background-color: #f8f5de;
+  border-width: 0px;
+}
+  .form-control{
+    font-family: 'Homemade Apple', cursive !important;
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #f8f5de !important;
+    background-clip: padding-box;
+    border: 1px solid #f8f5de !important;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+#send{
+  
+  width: initial;
+  font-family: 'Cinzel', serif;
+  font-family: 'Marcellus SC', serif !important;
+}
+  
+
+
+  
+
+
+ 
+  
+  
+  
+  
